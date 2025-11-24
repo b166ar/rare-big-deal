@@ -350,6 +350,8 @@ It's free & open-source. Enjoy! 🚀
 | ⚡️ | [Almighty](https://indiegoodies.com/almighty) | Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience | 50% OFF LIFETIME. Use code INDIEGOODIESBF25 for 50% off standalone versions | 2025-12-06 |
 | 🚀 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF | 2025-12-03 |
 | ↖ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens.  | 50% OFF | 2025-12-03 |
+| 🎧 | [AudioBo: AudioBook Converter](https://apps.apple.com/us/app/audiobo-audiobook-converter/id6754019673) | AudioBo turns messy audio folders into a polished, chaptered M4B — ready for Apple Books and old iPods alike. Unlike MP3, the M4B format is designed specifically for audiobooks. | **50% OFF** | 2025-11-30 |
+| 🍅 | [Focusito: Pomodoro Focus Timer](https://apps.apple.com/us/app/focusito-pomodoro-focus-timer/id1473808464?mt=12) | A quiet companion for focused work. Set a timer, stay in flow, and step away when it's time to rest. Clean Mac design, built-in ambient sounds, and nothing to distract you. | **50% OFF** | 2025-11-30 |
 
 
 ### Design Tools
